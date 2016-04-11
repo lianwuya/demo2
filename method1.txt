@@ -1,1 +1,3 @@
 public void main(){}
+
+user2 add a method
